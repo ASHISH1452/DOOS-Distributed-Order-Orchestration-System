@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Lambda zip files
+*.zip
+
+# Logs
+*.log
+logs/
+
+# Docker artifacts
+*.pid
+
+# LocalStack temp data
+.localstack/
+
+# Build artifacts
+dist/
+build/
+
